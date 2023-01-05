@@ -1,0 +1,34 @@
+header{
+    background-image: url("../media/images/donation0.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Poppins', sans-serif;
+}
+.header_main_contents {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    background-color: rgba(13, 13, 13, 0.549);
+    width: 100%;
+    height: 100%;
+}
+.header_main_contents div h1{
+    font-size: 60px;
+    color: white;
+}
+
+.header_main_contents div p{
+    font-size: 18px;
+    color: white;
+    padding: 50px 0px;
+}
+
+.header_main_contents div button{
+    font-size: 18px;
+    color: white;
+    padding: 50px 0px;
+}
